@@ -1,12 +1,126 @@
-# React + Vite
+# 📚 StudyEd: A Virtual Teaching Assistant for Personalized Learning Using Agentic AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**StudyEd** is an intelligent web application designed to support +2 students in Nepal with AI-powered personalized learning strategies. Students can upload books in PDF format, and the app creates a custom study schedule, generates daily MCQs and notes, and tracks learning progress — all in one centralized platform.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features
 
-## Expanding the ESLint configuration
+- 📄 **PDF Upload**  
+  Upload textbooks or study materials in PDF format.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🗓️ **Smart Study Scheduler**  
+  Automatically generates a personalized study plan based on content length and complexity.
+
+- 📝 **AI-Generated Notes**  
+  Generates meaningful and concise notes daily to enhance understanding.
+
+- ❓ **MCQ Generator**  
+  Creates multiple-choice questions from the content to encourage active learning.
+
+- 📊 **Progress Tracker**  
+  Tracks chapters completed, quiz performance, and overall study progress.
+
+---
+
+## 🛠 Tech Stack
+
+| Frontend       | Backend  | Database | AI Integration |
+|----------------|----------|----------|----------------|
+| React + Vite   | FastAPI  | MongoDB  | Gemini (LLM)   |
+
+---
+
+## 📁 Project Structure
+
+major-project/
+│
+├── Client/ # React + Vite frontend
+├── Server/ # FastAPI backend
+├── models/ # ML
+└── README.md # Project overview
+
+
+
+---
+
+## 🔧 Installation & Setup
+
+### 📥 Clone the Repository
+
+```bash
+git clone https://github.com/AayushSinghRajput/major-project.git
+cd major-project
+
+
+
+💻 Frontend Setup (React + Vite)
+cd Client
+npm install
+npm run dev
+
+
+
+⚙️ Backend Setup (FastAPI)
+cd Server
+python -m venv env
+
+# For Linux/macOS
+source env/bin/activate
+
+# For Windows
+env\Scripts\activate
+
+pip install -r requirements.txt
+uvicorn main:app --reload
+
+
+
+🚀 Future Enhancements
+📱 Mobile Responsiveness
+Fully responsive design with PWA support.
+
+📚 Multi-Book Scheduling
+Plan and manage multiple books with smart schedules.
+
+🌐 Nepali Language Support
+Full support for notes, questions, and UI in the Nepali language.
+
+📊 Advanced Analytics Dashboard
+Smart dashboards with visual data on performance, goals, and time tracking.
+
+🔔 Push Notifications
+Reminders for daily study goals and quizzes.
+
+👥 User Profiles & Roles
+Enhanced experience with roles for students, mentors, and admins.
+
+🎯 Target Users
++2 Students (Grade 11 and 12) in Nepal
+
+Students preparing for NEB board exams
+
+Learners seeking structured, AI-assisted study planning and daily feedback
+
+👨‍💻 Developers
+Team StudyEd — Built with ❤️ by:
+
+Aayush Kr Singh
+
+Ashmita Karki
+
+Bhanu Pd. Chaudhary
+
+Bishal Sharma
+
+📍 Location: Dharan, Nepal
+📧 Contact Emails:
+
+078bct003@ioepc.edu.np
+
+078bct017@ioepc.edu.np
+
+078bct021@ioepc.edu.np
+
+078bct027@ioepc.edu.np
+
