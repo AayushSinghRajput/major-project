@@ -13,6 +13,8 @@ import Dashboard from "./components/Dashboard";
 import ProtectedRoute from "./components/ProtectedRoute";
 import { useAuth } from "./components/AuthContext";
 import RefreshRedirectWrapper from "./components/RefreshRedirectWrapper"; // import the wrapper
+import Service from "./pages/Service"
+import Contact from "./pages/Contact"
 
 
 function HomeHero() {
@@ -81,6 +83,10 @@ export default function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} />
           <Route path="/about" element={<About />} />
+          <Route path="/services" element={<Service />} />
+          <Route path="/contact" element={<Contact />} />
+          
+
           <Route
             path="/dashboard"
             element={

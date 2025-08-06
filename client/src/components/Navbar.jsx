@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { NavLink, useLocation } from "react-router-dom";
 import { FiMenu, FiX } from "react-icons/fi";
 import { useAuth } from "./AuthContext";
+import { Link } from "react-router-dom";
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -50,6 +51,17 @@ export default function Navbar() {
           </button>
 
           {/* <NavLink
+            to="/services"
+            className={({ isActive }) =>
+              isActive
+                ? "text-indigo-600 font-semibold"
+                : "text-gray-700 hover:text-indigo-600"
+            }
+          >
+            Services
+          </NavLink> */}
+
+          <NavLink
             to="/contact"
             className={({ isActive }) =>
               isActive
@@ -58,7 +70,9 @@ export default function Navbar() {
             }
           >
             Contact
-          </NavLink> */}
+          </NavLink>
+          
+
 
           {!user && (
             <>
