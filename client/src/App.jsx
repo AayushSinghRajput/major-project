@@ -15,6 +15,7 @@ import { useAuth } from "./components/AuthContext";
 import RefreshRedirectWrapper from "./components/RefreshRedirectWrapper"; // import the wrapper
 import Service from "./pages/Service"
 import Contact from "./pages/Contact"
+import ProgressTracker from "./components/ProgressTracker";
 
 
 function HomeHero() {
@@ -28,6 +29,8 @@ function HomeHero() {
       navigate("/signup");
     }
   };
+
+  
 
   return (
     <section className="flex flex-col md:flex-row items-center max-w-7xl mx-auto px-6 py-20 gap-12">

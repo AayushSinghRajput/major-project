@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import DashboardContent from "./DashboardContent";
 import Service from "../pages/Service";
+import ProgressTracker from "./ProgressTracker";
+
 
 export default function Dashboard() {
   const [activeTab, setActiveTab] = useState("dashboard");
@@ -62,16 +64,9 @@ export default function Dashboard() {
           ) : activeTab === "dashboard" ? (
             <DashboardContent onLearnNowClick={handleLearnNowClick} />
           ) : activeTab === "progress" ? (
-            <div className="text-indigo-900">
-              <h3 className="text-lg font-semibold mb-3">Your Progress</h3>
-              <div className="w-full bg-indigo-200 rounded-full h-4">
-                <div
-                  className="bg-indigo-600 h-4 rounded-full"
-                  style={{ width: `${progress}%` }}
-                />
-              </div>
-              <p className="mt-2 text-sm font-medium">{progress}% completed</p>
-            </div>
+            <div className="w-full h-full bg-gradient-to-br from-indigo-50 to-purple-300 p-6 rounded-lg">
+          <ProgressTracker />
+          </div>
           ) : (
             <div className="text-center text-indigo-700 italic pt-10">
               Let's get started!
