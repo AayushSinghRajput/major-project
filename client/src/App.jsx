@@ -13,6 +13,9 @@ import Dashboard from "./components/Dashboard";
 import ProtectedRoute from "./components/ProtectedRoute";
 import { useAuth } from "./components/AuthContext";
 import RefreshRedirectWrapper from "./components/RefreshRedirectWrapper"; // import the wrapper
+import Service from "./pages/Service"
+import Contact from "./pages/Contact"
+import ProgressTracker from "./components/ProgressTracker";
 
 
 function HomeHero() {
@@ -26,6 +29,8 @@ function HomeHero() {
       navigate("/signup");
     }
   };
+
+  
 
   return (
     <section className="flex flex-col md:flex-row items-center max-w-7xl mx-auto px-6 py-20 gap-12">
@@ -81,6 +86,10 @@ export default function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} />
           <Route path="/about" element={<About />} />
+          <Route path="/services" element={<Service />} />
+          <Route path="/contact" element={<Contact />} />
+          
+
           <Route
             path="/dashboard"
             element={
