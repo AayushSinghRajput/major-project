@@ -1,0 +1,1202 @@
+[
+    {
+        "day": 1,
+        "topics": [
+            {
+                "chapter": "2 Biology - The Life Science",
+                "topic": "2.1 Characteristics of life"
+            },
+            {
+                "chapter": "2 Biology - The Life Science",
+                "topic": "2.2 Nature of science"
+            },
+            {
+                "chapter": "2 Biology - The Life Science",
+                "topic": "2.3 Scientiﬁc method"
+            },
+            {
+                "chapter": "2 Biology - The Life Science",
+                "topic": "2.4 Charles Darwin"
+            },
+            {
+                "chapter": "2 Biology - The Life Science",
+                "topic": "2.5 After Darwin"
+            },
+            {
+                "chapter": "2 Biology - The Life Science",
+                "topic": "2.6 Challenges to Darwin"
+            },
+            {
+                "chapter": "3 The Nature of Molecules",
+                "topic": "3.1 Matter"
+            },
+            {
+                "chapter": "3 The Nature of Molecules",
+                "topic": "3.2 The atom"
+            },
+            {
+                "chapter": "3 The Nature of Molecules",
+                "topic": "3.3 Mass and isotopes"
+            },
+            {
+                "chapter": "3 The Nature of Molecules",
+                "topic": "3.4 Electrons"
+            },
+            {
+                "chapter": "3 The Nature of Molecules",
+                "topic": "3.5 Chemical bonds"
+            },
+            {
+                "chapter": "3 The Nature of Molecules",
+                "topic": "3.6 Chemical reactions"
+            },
+            {
+                "chapter": "3 The Nature of Molecules",
+                "topic": "3.7 Water"
+            },
+            {
+                "chapter": "3 The Nature of Molecules",
+                "topic": "3.7.1 Hydrogen bonding"
+            }
+        ]
+    },
+    {
+        "day": 2,
+        "topics": [
+            {
+                "chapter": "4 The Chemical Building Blocks of Life",
+                "topic": "4.1 Carbon"
+            },
+            {
+                "chapter": "4 The Chemical Building Blocks of Life",
+                "topic": "4.2 Carbohydrates"
+            },
+            {
+                "chapter": "4 The Chemical Building Blocks of Life",
+                "topic": "4.3 Stereoisomers"
+            },
+            {
+                "chapter": "4 The Chemical Building Blocks of Life",
+                "topic": "4.4 Lipids"
+            },
+            {
+                "chapter": "4 The Chemical Building Blocks of Life",
+                "topic": "4.4.1 Fatty acids"
+            },
+            {
+                "chapter": "4 The Chemical Building Blocks of Life",
+                "topic": "4.5 Proteins"
+            },
+            {
+                "chapter": "4 The Chemical Building Blocks of Life",
+                "topic": "4.5.1 Amino acids"
+            },
+            {
+                "chapter": "4 The Chemical Building Blocks of Life",
+                "topic": "4.5.2 Structure"
+            },
+            {
+                "chapter": "4 The Chemical Building Blocks of Life",
+                "topic": "4.5.3 Function"
+            },
+            {
+                "chapter": "4 The Chemical Building Blocks of Life",
+                "topic": "4.6 Hereditary (Genetic) information"
+            },
+            {
+                "chapter": "4 The Chemical Building Blocks of Life",
+                "topic": "4.6.1 RNA DNA origin"
+            },
+            {
+                "chapter": "5 Life: History and Origin",
+                "topic": "5.1 Properties of life"
+            },
+            {
+                "chapter": "5 Life: History and Origin",
+                "topic": "5.2 Origin of life: 3 hypotheses"
+            },
+            {
+                "chapter": "5 Life: History and Origin",
+                "topic": "5.3 The early earth"
+            }
+        ]
+    },
+    {
+        "day": 3,
+        "topics": [
+            {
+                "chapter": "5 Life: History and Origin",
+                "topic": "5.4 Origin of cells"
+            },
+            {
+                "chapter": "5 Life: History and Origin",
+                "topic": "5.5 The RNA world?"
+            },
+            {
+                "chapter": "5 Life: History and Origin",
+                "topic": "5.6 The earliest cells"
+            },
+            {
+                "chapter": "5 Life: History and Origin",
+                "topic": "5.7 Major steps in evolution of life"
+            },
+            {
+                "chapter": "7 Cell structure",
+                "topic": "7.1 What is a cell?"
+            },
+            {
+                "chapter": "7 Cell structure",
+                "topic": "7.1.1 Concepts"
+            },
+            {
+                "chapter": "7 Cell structure",
+                "topic": "7.1.2 Structure and function of the cell"
+            },
+            {
+                "chapter": "7 Cell structure",
+                "topic": "7.1.3 Common characteristics of all the cells"
+            },
+            {
+                "chapter": "7 Cell structure",
+                "topic": "7.2 History of cell knowledge"
+            },
+            {
+                "chapter": "7 Cell structure",
+                "topic": "7.2.1 Cell Theory"
+            },
+            {
+                "chapter": "7 Cell structure",
+                "topic": "7.3 Microscopes"
+            },
+            {
+                "chapter": "7 Cell structure",
+                "topic": "7.4 Cell size"
+            },
+            {
+                "chapter": "8 Structure of Eukaryotic cells",
+                "topic": "8.1 Structure of the nucleus"
+            },
+            {
+                "chapter": "8 Structure of Eukaryotic cells",
+                "topic": "8.1.1 Nuclear envelope"
+            }
+        ]
+    },
+    {
+        "day": 4,
+        "topics": [
+            {
+                "chapter": "8 Structure of Eukaryotic cells",
+                "topic": "8.1.2 Nucleolus"
+            },
+            {
+                "chapter": "8 Structure of Eukaryotic cells",
+                "topic": "8.2 Chromatin"
+            },
+            {
+                "chapter": "8 Structure of Eukaryotic cells",
+                "topic": "8.3 Endoplasmic reticulum"
+            },
+            {
+                "chapter": "8 Structure of Eukaryotic cells",
+                "topic": "8.3.1 Rough Endoplasmic Reticulum"
+            },
+            {
+                "chapter": "8 Structure of Eukaryotic cells",
+                "topic": "8.3.2 Smooth Endoplasmic Reticulum"
+            },
+            {
+                "chapter": "8 Structure of Eukaryotic cells",
+                "topic": "8.3.3 Sarcoplasmic Reticulum"
+            },
+            {
+                "chapter": "8 Structure of Eukaryotic cells",
+                "topic": "8.4 The Golgi apparatus"
+            },
+            {
+                "chapter": "8 Structure of Eukaryotic cells",
+                "topic": "8.5 Ribosomes"
+            },
+            {
+                "chapter": "8 Structure of Eukaryotic cells",
+                "topic": "8.6 DNA-containing organelles"
+            },
+            {
+                "chapter": "8 Structure of Eukaryotic cells",
+                "topic": "8.7 Cytoskeleton"
+            },
+            {
+                "chapter": "8 Structure of Eukaryotic cells",
+                "topic": "8.7.1 Intermediate Filaments"
+            },
+            {
+                "chapter": "8 Structure of Eukaryotic cells",
+                "topic": "8.7.2 Actin Filaments"
+            },
+            {
+                "chapter": "9 Membranes",
+                "topic": "9.1 Biological membranes"
+            },
+            {
+                "chapter": "9 Membranes",
+                "topic": "9.2 Phospholipid"
+            }
+        ]
+    },
+    {
+        "day": 5,
+        "topics": [
+            {
+                "chapter": "9 Membranes",
+                "topic": "9.3 Fluid mosaic model"
+            },
+            {
+                "chapter": "9 Membranes",
+                "topic": "9.4 Membrane proteins"
+            },
+            {
+                "chapter": "9 Membranes",
+                "topic": "9.5 Receptor-mediated endocytosis"
+            },
+            {
+                "chapter": "10 Cell-cell interactions",
+                "topic": "10.1 Cell signaling"
+            },
+            {
+                "chapter": "10 Cell-cell interactions",
+                "topic": "10.1.1 Types of signaling"
+            },
+            {
+                "chapter": "10 Cell-cell interactions",
+                "topic": "10.2 Communicating junctions"
+            },
+            {
+                "chapter": "10 Cell-cell interactions",
+                "topic": "10.2.1 Gap junctions"
+            },
+            {
+                "chapter": "11 Energy and Metabolism",
+                "topic": "11.1 Energy"
+            },
+            {
+                "chapter": "11 Energy and Metabolism",
+                "topic": "11.2 Oxidation–Reduction"
+            },
+            {
+                "chapter": "11 Energy and Metabolism",
+                "topic": "11.3 NAD+"
+            },
+            {
+                "chapter": "11 Energy and Metabolism",
+                "topic": "11.4 Free energy"
+            },
+            {
+                "chapter": "11 Energy and Metabolism",
+                "topic": "11.5 Enzymes"
+            },
+            {
+                "chapter": "11 Energy and Metabolism",
+                "topic": "11.5.1 Carbonic anhydrase"
+            },
+            {
+                "chapter": "11 Energy and Metabolism",
+                "topic": "11.5.2 Enzyme mechanism"
+            }
+        ]
+    },
+    {
+        "day": 6,
+        "topics": [
+            {
+                "chapter": "11 Energy and Metabolism",
+                "topic": "11.5.3 Factors aﬀecting enzyme activity"
+            },
+            {
+                "chapter": "11 Energy and Metabolism",
+                "topic": "11.6 ATP"
+            },
+            {
+                "chapter": "11 Energy and Metabolism",
+                "topic": "11.7 Biochemical pathways"
+            },
+            {
+                "chapter": "12 Respiration: harvesting of energy",
+                "topic": "12.1 Energy"
+            },
+            {
+                "chapter": "12 Respiration: harvesting of energy",
+                "topic": "12.2 Respiration"
+            },
+            {
+                "chapter": "12 Respiration: harvesting of energy",
+                "topic": "12.3 Respiration of glucose"
+            },
+            {
+                "chapter": "12 Respiration: harvesting of energy",
+                "topic": "12.4 Alternative anaerobic respiration"
+            },
+            {
+                "chapter": "12 Respiration: harvesting of energy",
+                "topic": "12.5 Glycolysis overview"
+            },
+            {
+                "chapter": "12 Respiration: harvesting of energy",
+                "topic": "12.6 Regeneration of NAD+"
+            },
+            {
+                "chapter": "12 Respiration: harvesting of energy",
+                "topic": "12.7 Alcohol fermentation"
+            },
+            {
+                "chapter": "12 Respiration: harvesting of energy",
+                "topic": "12.8 Lactate formation"
+            },
+            {
+                "chapter": "12 Respiration: harvesting of energy",
+                "topic": "12.9 Krebs cycle: overview"
+            },
+            {
+                "chapter": "12 Respiration: harvesting of energy",
+                "topic": "12.10 ATP production"
+            },
+            {
+                "chapter": "12 Respiration: harvesting of energy",
+                "topic": "12.11 Evolution of aerobic respiration"
+            }
+        ]
+    },
+    {
+        "day": 7,
+        "topics": [
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.1 Light Reactions"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.1.1 Accessory pigments"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.1.2 The Even More Detailed Light Reactions"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.2 “Dark” reactions"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.2.1 The Detailed Dark Reactions"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.3 Prokaryote cell division"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.4 Bacterial DNA replication"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.5 Chromosome number"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.6 Eukaryotic chromosomes"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.7 Chromosome organization"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.8 Human karyotype stained by chromosome painting"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.9 Chromosomes"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.10 Human chromosomes"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.11 Mitotic cell cycle"
+            }
+        ]
+    },
+    {
+        "day": 8,
+        "topics": [
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.12 Replicated human chromosomes"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.13 Mitosis"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.14 Plant mitosis"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.15 Controlling the cell cycle"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.16 Cancer"
+            },
+            {
+                "chapter": "13 Photosynthesis",
+                "topic": "13.17 Mutations and cancer"
+            },
+            {
+                "chapter": "14 Sexual reproduction",
+                "topic": "14.1 Sexual"
+            },
+            {
+                "chapter": "14 Sexual reproduction",
+                "topic": "14.2 Sexual life cycle"
+            },
+            {
+                "chapter": "14 Sexual reproduction",
+                "topic": "14.3 Meiosis"
+            },
+            {
+                "chapter": "14 Sexual reproduction",
+                "topic": "14.4 Prophase I: synapsis"
+            },
+            {
+                "chapter": "14 Sexual reproduction",
+                "topic": "14.5 Crossing over"
+            },
+            {
+                "chapter": "14 Sexual reproduction",
+                "topic": "14.6 Microtubules and anaphase I"
+            },
+            {
+                "chapter": "14 Sexual reproduction",
+                "topic": "14.7 Meiosis II"
+            },
+            {
+                "chapter": "14 Sexual reproduction",
+                "topic": "14.8 Evolution of sex"
+            }
+        ]
+    },
+    {
+        "day": 9,
+        "topics": [
+            {
+                "chapter": "14 Sexual reproduction",
+                "topic": "14.9 Consequences of sex"
+            },
+            {
+                "chapter": "16 Gregor Mendel and biological inheritance",
+                "topic": "16.1 Mendel"
+            },
+            {
+                "chapter": "16 Gregor Mendel and biological inheritance",
+                "topic": "16.2 Mendel’s experiments"
+            },
+            {
+                "chapter": "16 Gregor Mendel and biological inheritance",
+                "topic": "16.3 Mendel’s seven pairs of traits"
+            },
+            {
+                "chapter": "16 Gregor Mendel and biological inheritance",
+                "topic": "16.4 Locus"
+            },
+            {
+                "chapter": "16 Gregor Mendel and biological inheritance",
+                "topic": "16.5 Modern Y chromosome"
+            },
+            {
+                "chapter": "16 Gregor Mendel and biological inheritance",
+                "topic": "16.6 Chromosome phenomena"
+            },
+            {
+                "chapter": "16 Gregor Mendel and biological inheritance",
+                "topic": "16.7 X-chromosome inactivation"
+            },
+            {
+                "chapter": "16 Gregor Mendel and biological inheritance",
+                "topic": "16.8 Barr body"
+            },
+            {
+                "chapter": "16 Gregor Mendel and biological inheritance",
+                "topic": "16.9 Human genetic disorders"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.1 DNA"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.2 Historical perspective"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.3 Hershey-Chase Experiment"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.4 DNA/RNA components"
+            }
+        ]
+    },
+    {
+        "day": 10,
+        "topics": [
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.4.1 Structure of DNA"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.5 Chemical structure of DNA"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.6 3D structure of DNA"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.7 Franklin"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.8 DNA replication"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.9 DNA replication"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.10 DNA polymerases"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.11 DNA replication complex"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.12 DNA replication"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.13 DNA replication fork"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.14 Replication units"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.15 Replicon"
+            },
+            {
+                "chapter": "17 DNA: The Genetic Material",
+                "topic": "17.16 What is gene?"
+            },
+            {
+                "chapter": "18 Gene expression",
+                "topic": "18.1 “Central Dogma”"
+            }
+        ]
+    },
+    {
+        "day": 11,
+        "topics": [
+            {
+                "chapter": "18 Gene expression",
+                "topic": "18.2 The Genetic Code"
+            },
+            {
+                "chapter": "18 Gene expression",
+                "topic": "18.3 Transcription"
+            },
+            {
+                "chapter": "18 Gene expression",
+                "topic": "18.4 Transcription bubble"
+            },
+            {
+                "chapter": "18 Gene expression",
+                "topic": "18.5 Eukaryote mRNA"
+            },
+            {
+                "chapter": "18 Gene expression",
+                "topic": "18.6 Translation"
+            },
+            {
+                "chapter": "18 Gene expression",
+                "topic": "18.7 Translation in bacteria"
+            },
+            {
+                "chapter": "18 Gene expression",
+                "topic": "18.8 Aminoacyl tRNA synthase"
+            },
+            {
+                "chapter": "18 Gene expression",
+                "topic": "18.9 Ribosome structure"
+            },
+            {
+                "chapter": "18 Gene expression",
+                "topic": "18.10 Large ribosome subunit"
+            },
+            {
+                "chapter": "18 Gene expression",
+                "topic": "18.11 Translation"
+            },
+            {
+                "chapter": "18 Gene expression",
+                "topic": "18.12 Initiation complex"
+            },
+            {
+                "chapter": "18 Gene expression",
+                "topic": "18.13 Elongation, translocation"
+            },
+            {
+                "chapter": "18 Gene expression",
+                "topic": "18.14 Introns/exons"
+            },
+            {
+                "chapter": "19 Gene regulation",
+                "topic": "19.1 Transcriptional control"
+            }
+        ]
+    },
+    {
+        "day": 12,
+        "topics": [
+            {
+                "chapter": "19 Gene regulation",
+                "topic": "19.2 DNA grooves"
+            },
+            {
+                "chapter": "19 Gene regulation",
+                "topic": "19.3 Regulatory proteins"
+            },
+            {
+                "chapter": "19 Gene regulation",
+                "topic": "19.4 Lac operon of E. coli"
+            },
+            {
+                "chapter": "19 Gene regulation",
+                "topic": "19.5 Alternative splicing"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.1 Point Mutations"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.2 Substitution"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.2.1 Insertion"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.2.2 Deletion"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.3 Larger mutations"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.3.1 Inversion"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.3.2 Rearrangement"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.3.3 Gene/Exon Duplications"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.4 Chromosomal mutations"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.5 Causes of mutations"
+            }
+        ]
+    },
+    {
+        "day": 13,
+        "topics": [
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.6 Eﬀects of mutations"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.6.1 Silent Mutation"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.6.2 Frameshift"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.6.3 Missense Mutation"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.6.4 Nonsense Mutation"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.7.1 Books"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.9 Point mutation"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.10 Acquisition of genetic variability"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.11 Eukaryote genome"
+            },
+            {
+                "chapter": "20 Mutation",
+                "topic": "20.12 Barbara McClintock"
+            },
+            {
+                "chapter": "21 Recombinant DNA technology",
+                "topic": "21.1 Recombinant DNA technology"
+            },
+            {
+                "chapter": "21 Recombinant DNA technology",
+                "topic": "21.2 Restriction endonucleases"
+            },
+            {
+                "chapter": "21 Recombinant DNA technology",
+                "topic": "21.3 Restriction endonucleases"
+            },
+            {
+                "chapter": "21 Recombinant DNA technology",
+                "topic": "21.4 Uses of cloned gene"
+            }
+        ]
+    },
+    {
+        "day": 14,
+        "topics": [
+            {
+                "chapter": "21 Recombinant DNA technology",
+                "topic": "21.5 Other molecular procedures"
+            },
+            {
+                "chapter": "21 Recombinant DNA technology",
+                "topic": "21.6 RFLP(restriction fragment length polymorphism) analysis"
+            },
+            {
+                "chapter": "21 Recombinant DNA technology",
+                "topic": "21.7 Sanger DNA sequencing"
+            },
+            {
+                "chapter": "21 Recombinant DNA technology",
+                "topic": "21.8 Automated sequencing"
+            },
+            {
+                "chapter": "21 Recombinant DNA technology",
+                "topic": "21.9 Genome projects"
+            },
+            {
+                "chapter": "21 Recombinant DNA technology",
+                "topic": "21.10 Biochips"
+            },
+            {
+                "chapter": "21 Recombinant DNA technology",
+                "topic": "21.11 DNA chip controversies"
+            },
+            {
+                "chapter": "21 Recombinant DNA technology",
+                "topic": "21.12 Gene patenting"
+            },
+            {
+                "chapter": "21 Recombinant DNA technology",
+                "topic": "21.13 Stem cells"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.1 Introduction"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.2 Viral Replication"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.2.1 Lytic Cycle"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.2.2 Lysogenic Cycle"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.3 Viral Genome"
+            }
+        ]
+    },
+    {
+        "day": 15,
+        "topics": [
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.5 Archaea"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.5.1 Types"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.6 Prokaryote evolution"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.7 Domains of life: characteristics"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.8 Introduction"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.9 Classiﬁcation of Protists"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.10 Protozoa"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.11 Algae"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.11.1 Chlorophytes"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.11.2 Phaeophytes"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.11.3 Rhodophytes"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.11.4 Chryosophytes"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.11.5 Pyrrophytes"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.11.6 Euglenophytes"
+            }
+        ]
+    },
+    {
+        "day": 16,
+        "topics": [
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.12 Slime molds & Water molds"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.12.1 Oomycotes (Water moulds)"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.12.2 Myxomycotes (Plasmodial slime moulds)"
+            },
+            {
+                "chapter": "22 Classiﬁcation of Living Things",
+                "topic": "22.12.3 Acrasiomycotes (Cellular slime moulds) and its reproductive cycle"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.1 Plants"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.2 Plant phyla"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.3 Plant evolution"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.3.1 Terrestrial adaptations"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.4 Plant phylogeny"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.5 Plant life cycles"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.6 Moss life cycle"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.7 Vascular plants"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.8 Vascular plant life cycles"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.9 Pterophyta (ferns)"
+            }
+        ]
+    },
+    {
+        "day": 17,
+        "topics": [
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.10 Non-seed plants, continued"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.11 Seed plants"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.12 Sporophyte/gametophyte"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.13 Megasporangium (nucellus)"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.14 Pollen"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.15 Gymnosperms"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.16 Pine life cycle"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.17 Other Coniferophyta"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.18 Other gymnosperms"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.19 Angiosperms"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.19.1 Monocots vs dicots"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.20 Earliest angiosperm"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.21 Angiosperm ﬂower"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.22 Angiosperm life cycle"
+            }
+        ]
+    },
+    {
+        "day": 18,
+        "topics": [
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.23 Introduction"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.24 Nutrition"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.25 Fungal Reproduction"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.26 Types of Fungi"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.26.1 Zygospore Fungi (Zygomycetes)"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.26.2 Club Fungi (Basidiomycetes)"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.27 Key Terms"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.28 Introduction"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.29 Characteristics of an Animal"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.30 Introduction to animal phyla"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.31 Phylum Porifera"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.32 Phylum Cnidaria"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.33 Phylum Platyhelminthes"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.34 Phylum Rotifera"
+            }
+        ]
+    },
+    {
+        "day": 19,
+        "topics": [
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.35 Phylum Nematoda"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.36 Phylum Annelida"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.37 Phylum Arthropoda"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.38 Phylum Mollusca"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.39 Phylum Echinodermata"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.40 Phylum Chordata"
+            },
+            {
+                "chapter": "23 Multicellular Photosynthetic Autotrophs",
+                "topic": "23.40.1 Subphylum Vertebrata"
+            },
+            {
+                "chapter": "24 Chordates",
+                "topic": "24.1 Characteristics"
+            },
+            {
+                "chapter": "24 Chordates",
+                "topic": "24.2 Subphylum Urochordata"
+            },
+            {
+                "chapter": "24 Chordates",
+                "topic": "24.3 Subphylum Cephalochordata"
+            },
+            {
+                "chapter": "24 Chordates",
+                "topic": "24.4 Subphylum Vertebrata"
+            },
+            {
+                "chapter": "24 Chordates",
+                "topic": "24.4.1 Class Agnatha"
+            },
+            {
+                "chapter": "24 Chordates",
+                "topic": "24.4.2 Class Chondrichthyes"
+            },
+            {
+                "chapter": "24 Chordates",
+                "topic": "24.4.3 Class Osteichthyes"
+            }
+        ]
+    },
+    {
+        "day": 20,
+        "topics": [
+            {
+                "chapter": "24 Chordates",
+                "topic": "24.4.4 Class Amphibia"
+            },
+            {
+                "chapter": "31 Respiratory system",
+                "topic": "31.1 Neuron structure"
+            },
+            {
+                "chapter": "31 Respiratory system",
+                "topic": "31.2 Central nervous system"
+            },
+            {
+                "chapter": "31 Respiratory system",
+                "topic": "31.3 Peripheral nervous system"
+            },
+            {
+                "chapter": "32 Sensory systems",
+                "topic": "32.1 Taste and smell (chemoreception)"
+            },
+            {
+                "chapter": "32 Sensory systems",
+                "topic": "32.2 Response to gravity and movement"
+            },
+            {
+                "chapter": "32 Sensory systems",
+                "topic": "32.3 Vision"
+            },
+            {
+                "chapter": "32 Sensory systems",
+                "topic": "32.4 Homeostasis"
+            },
+            {
+                "chapter": "32 Sensory systems",
+                "topic": "32.5 Osmotic environments and regulations"
+            }
+        ]
+    }
+]
