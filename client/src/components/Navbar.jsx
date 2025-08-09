@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { NavLink, useLocation } from "react-router-dom";
 import { FiMenu, FiX } from "react-icons/fi";
 import { useAuth } from "./AuthContext";
-import { Link } from "react-router-dom";
+
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -19,7 +19,7 @@ export default function Navbar() {
         aboutSection.scrollIntoView({ behavior: "smooth" });
       }
     } else {
-      window.location.href = "/#about";
+      window.location.href = "/about";
     }
     closeMenu();
   };
@@ -92,7 +92,7 @@ export default function Navbar() {
           {user && (
             <>
               <span className="text-indigo-700 font-semibold mr-4">
-                Hi, {user.name}
+                Hi, {user.name.split("@")[0]}
               </span>
               <button
                 onClick={logout}

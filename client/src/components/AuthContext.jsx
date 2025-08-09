@@ -14,7 +14,7 @@ export function AuthProvider({ children }) {
   }, []);
 
   const signup = ({ name, email, password }) => {
-    const newUser = { name, email }; // Password would typically be hashed/sent to server
+    const newUser = { name, email,password }; // Password would typically be hashed/sent to server
     setUser(newUser);
     localStorage.setItem("user", JSON.stringify(newUser));
   };
