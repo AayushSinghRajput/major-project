@@ -22,7 +22,7 @@ export default function ProgressTracker() {
   return (
     <div className="bg-white p-6 rounded-2xl shadow-md max-w-md mx-auto">
       <h2 className="text-xl font-semibold mb-6 text-center flex justify-center items-center gap-2">
-        📊 Course Progress
+        📊Progress in Biology
       </h2>
 
       {/* Circular Progress */}

@@ -4,69 +4,90 @@ import DashboardContent from "./DashboardContent";
 import Service from "../pages/Service";
 import ProgressTracker from "./ProgressTracker";
 
-
 export default function Dashboard() {
   const [activeTab, setActiveTab] = useState("dashboard");
   const [showServiceView, setShowServiceView] = useState(false);
-  const progress = 45;
 
-  const handleLearnNowClick = () => {
-    setShowServiceView(true);
-  };
+  // NEW: toggleable profile panel
+  const [showProfile, setShowProfile] = useState(true);
+
+  const handleLearnNowClick = () => setShowServiceView(true);
 
   return (
     <div className="min-h-screen min-w-screen bg-gray-50 flex">
       <div className="flex flex-grow max-w-full bg-white rounded-none shadow-sm overflow-hidden">
-        {/* Left Sidebar */}
-        <div className="w-64 bg-indigo-50 p-4 flex flex-col gap-6">
-          <div className="text-center">
-            <div className="w-16 h-16 bg-indigo-200 text-indigo-700 rounded-full flex items-center justify-center mx-auto text-3xl mb-2">
-              👤
-            </div>
-            <h2 className="text-lg font-semibold">Ashmita Karki</h2>
-            <p className="text-indigo-700 text-xs font-medium">ID: STU12345</p>
-          </div>
 
-          <nav className="flex flex-col gap-2">
+        {/* Left Sidebar (Profile) */}
+        {showProfile ? (
+          <div className="relative w-64 bg-indigo-50 p-4 flex flex-col gap-6 border-r-2 border-indigo-200">
+            {/* collapse button */}
             <button
-              className={`py-1 rounded text-sm font-medium ${
-                activeTab === "dashboard"
-                  ? "bg-indigo-600 text-white"
-                  : "text-indigo-700 hover:bg-indigo-200"
-              }`}
-              onClick={() => {
-                setShowServiceView(false);
-                setActiveTab("dashboard");
-              }}
+              onClick={() => setShowProfile(false)}
+              className="absolute -right-3 top-6 h-6 w-6 rounded-full bg-indigo-600 text-white text-xs flex items-center justify-center shadow"
+              title="Collapse"
             >
-              Dashboard
+              ‹
             </button>
-            <button
-              className={`py-1 rounded text-sm font-medium ${
-                activeTab === "progress"
-                  ? "bg-indigo-600 text-white"
-                  : "text-indigo-700 hover:bg-indigo-200"
-              }`}
-              onClick={() => {
-                setShowServiceView(false);
-                setActiveTab("progress");
-              }}
-            >
-              Progress
-            </button>
-          </nav>
-        </div>
+
+            <div className="text-center">
+              <div className="w-16 h-16 bg-indigo-200 text-indigo-700 rounded-full flex items-center justify-center mx-auto text-3xl mb-2">
+                👤
+              </div>
+              <h2 className="text-lg font-semibold">Ashmita Karki</h2>
+              <p className="text-indigo-700 text-xs font-medium">ID: STU12345</p>
+            </div>
+
+            <nav className="flex flex-col gap-2">
+              <button
+                className={`py-1 rounded text-sm font-medium ${
+                  activeTab === "dashboard"
+                    ? "bg-indigo-600 text-white"
+                    : "text-indigo-700 hover:bg-indigo-200"
+                }`}
+                onClick={() => {
+                  setShowServiceView(false);
+                  setActiveTab("dashboard");
+                }}
+              >
+                Dashboard
+              </button>
+              <button
+                className={`py-1 rounded text-sm font-medium ${
+                  activeTab === "progress"
+                    ? "bg-indigo-600 text-white"
+                    : "text-indigo-700 hover:bg-indigo-200"
+                }`}
+                onClick={() => {
+                  setShowServiceView(false);
+                  setActiveTab("progress");
+                }}
+              >
+                Progress
+              </button>
+            </nav>
+          </div>
+        ) : (
+          /* Reopen handle when collapsed */
+          <button
+            onClick={() => setShowProfile(true)}
+            className="w-4 bg-indigo-600 text-white text-xs"
+            title="Expand"
+          >
+            ▶
+          </button>
+        )}
 
         {/* Right Content */}
-        <div className="flex-1 p-4 overflow-auto">
+        {/* Add a subtle left border so the separation is ALWAYS visible */}
+        <div className="flex-1 p-0 overflow-auto border-l border-indigo-200">
           {showServiceView ? (
             <Service />
           ) : activeTab === "dashboard" ? (
             <DashboardContent onLearnNowClick={handleLearnNowClick} />
           ) : activeTab === "progress" ? (
             <div className="w-full h-full bg-gradient-to-br from-indigo-50 to-purple-300 p-6 rounded-lg">
-          <ProgressTracker />
-          </div>
+              <ProgressTracker />
+            </div>
           ) : (
             <div className="text-center text-indigo-700 italic pt-10">
               Let's get started!

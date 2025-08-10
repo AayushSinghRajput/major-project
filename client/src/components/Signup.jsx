@@ -34,7 +34,7 @@ export default function Signup() {
       });
 
       // Redirect to lets-start setup page after successful signup
-      navigate("/lets-start");
+      navigate("/dashboard");
     } catch (error) {
       alert(error.message || "Signup failed. Please try again.");
     }

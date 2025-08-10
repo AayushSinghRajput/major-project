@@ -85,13 +85,13 @@ export default function ContactPage() {
           <h2 className="text-2xl font-semibold text-white mb-4">Contact Information</h2>
           <div className="text-gray-300 space-y-4 text-lg">
             <p>
-              📧 Email: <a href="mailto:you@example.com" className="text-blue-400 hover:underline">you@example.com</a>
+              📧 Email: <a href="mailto:you@example.com" className="text-blue-400 hover:underline"></a>
             </p>
             <p>
-              📞 Phone: <a href="tel:+1234567890" className="text-blue-400 hover:underline">+1 234 567 890</a>
+              📞 Phone: <a href="tel:+1234567890" className="text-blue-400 hover:underline"></a>
             </p>
             <p>
-              📍 Address: 123 Street Name, City, Country
+             Address: 
             </p>
           </div>
 

@@ -51,8 +51,6 @@ export default function About() {
 
       {/* Content Container */}
       <div className="relative max-w-5xl mx-auto text-gray-800">
-        
-
         {/* Flex container for About text and animation */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-10">
           {/* Left Side: About Text */}
@@ -61,20 +59,30 @@ export default function About() {
               About <span className="text-purple-600">StudyEd</span>
             </h2>
             <p className="text-lg mb-4">
-              <strong>StudyEd</strong> is a personalized learning platform mainly focused on{" "}
-              <strong>+2 science students</strong>, helping them succeed in their studies and ace entrance exams. 
-              It teaches students based on their <strong>learning capability</strong> using smart AI algorithms.
+              <strong>StudyEd</strong> is a personalized learning platform for{" "}
+              <strong>+2 science students</strong>, with a strong focus on{" "}
+              <strong>Physics, Chemistry, and Biology</strong>. It helps them
+              succeed in their studies and ace entrance exams by adapting to
+              their <strong>individual learning capabilities</strong> through
+              smart AI algorithms.
             </p>
+
             <p className="text-md text-gray-700">
-              StudyEd empowers students to learn smarter by simplifying complex topics, 
-              personalizing their study path, and generating instant multiple-choice quizzes from uploaded notes.
-              Whether you're preparing for board exams or entrance tests, StudyEd supports your journey with AI-powered tools.
+              StudyEd empowers students to learn smarter by simplifying complex
+              topics, personalizing their study path, and generating instant
+              multiple-choice quizzes from uploaded notes. Whether you're
+              preparing for board exams or entrance tests, StudyEd supports your
+              journey with AI-powered tools.
             </p>
           </div>
 
           {/* Right Side: Animation */}
           <div className="md:w-1/2" data-aos="fade-left">
-            <Lottie animationData={studentAnimation} loop={true} className="w-full h-auto" />
+            <Lottie
+              animationData={studentAnimation}
+              loop={true}
+              className="w-full h-auto"
+            />
           </div>
         </div>
 
